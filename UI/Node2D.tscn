@@ -9,6 +9,7 @@ margin_left = 105.0
 margin_top = 83.0
 margin_right = 851.0
 margin_bottom = 497.0
+tab_size = 20
 script = ExtResource( 1 )
 
 [node name="ms" type="Timer" parent="RichTextLabel"]
